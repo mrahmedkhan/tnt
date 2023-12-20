@@ -23,6 +23,6 @@ https://hls.streambtw.com/live/stream_7.m3u8
 #EXTINF:-1 tvg-logo="https://medianet.mv/media/channel/178x0-icon.png",Sony Ten 1
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png",Sony Ten 2
-https://webudit.webhd.ru/lb/premium31/index.m3u8?|referer=https://olalivehdplay.ru/&user-agent=ms.m3u8
+https://webudit.webhd.ru/lb/premium31/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400/b2f3a318133289.5ada7a7233f6e.jpg",Star Sports 1
 https://ddh1.hlsjs.ru:443/ddh1/premium741/tracks-v1a1/mono.m3u8?|referer=https://olalivehdplay.ru/z.m3u8

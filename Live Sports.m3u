@@ -25,7 +25,7 @@ https://hls.streambtw.com/live/stream_8.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/3135979/screenshots/6278215/1-01_4x.jpg?resize=400x0",Live Cricket
 https://hls.streambtw.com/live/stream_e1.m3u8
 #EXTINF:-1 tvg-logo="https://medianet.mv/media/channel/178x0-icon.png",Sony Ten 1
-https://webudit.hlsjs.ru/lb/premium31/index.m3u8|referer=https://weblivehdplay.ru/
+http://142.54.172.138/premium31/playlist.m3u8?ddd=Pl5NHMeCwA
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png",Sony Ten 2
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400/b2f3a318133289.5ada7a7233f6e.jpg",Star Sports 1

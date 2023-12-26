@@ -283,33 +283,3 @@ http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/6622.m3u8
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
 http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/6624.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJsSzwFwI4FB1bvaEEHnm-5OwsuMpRzXsNig&usqp=CAU" group-title="SPORTS", Ziggo Sport Switch 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
-http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/53700.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQABNXMpALjhnyvMN_FewC37QU6lc4LfBFS6A&usqp=CAU" group-title="SPORTS", Ziggo Sport Golf
-http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/53703.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhHSRKvBh9Ou7Fi3UY7lBNaXuLKcrjwrtNCg&usqp=CAU" group-title="SPORTS", Ziggo Sport Voetbal
-http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/53704.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o/h/1/851/ziggo-sport-racing-1.png" group-title="SPORTS", Ziggo Sport Racing 
-http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/53705.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4JmCH1OEo8u4hUf3SzuYFNcgmN3jNuklF9w&usqp=CAU" group-title="SPORTS", Ziggo Sport Duco
-http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/53708.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_KGWdWkbwXtk03-Li_89z3DG1YY3-xw7hsA&usqp=CAU" group-title="SPORTS", Ziggo Sport Tennis 
-http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/53711.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF_xR7jwt6A3WuXuNd8xuWKwfSPVhpjE0KtA&usqp=CAU" group-title="SPORTS", Match! Football 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
-https://ddh1.webhd.ru/ddh1/premium136/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.freeshot.live/upload/source/Match_Football_2_Russia_logo.png" group-title="SPORTS", Match! Football 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
-https://ddh1.webhd.ru/ddh1/premium137/tracks-v1a1/mono.m3u8
